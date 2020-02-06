@@ -6,7 +6,6 @@ Python 3 library to perform object detecting and tracking.
 
 1. Numpy: https://numpy.org/
 2. OpenCV2: https://opencv.org/
-3. Pyswip: https://github.com/yuce/pyswip
 
 
 ## Contacts
